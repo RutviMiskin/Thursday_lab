@@ -1,7 +1,7 @@
 //  This program is to cyclically rotate a given array clockwise by one.
 
 
-public class CyclicArray
+public class CyclicallyArray
 {
 	public static void main(String args[])
 	{
