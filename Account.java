@@ -25,10 +25,11 @@ public class Account {
 	public static void main(String[] args) {
 	 Account ac = new Account();
 	 ac.setBalance(8500f);
-	 ac.setEmail("arshadgodhrawala@gmail.com ");
+	 ac.setEmail("rm.miskin2001@gmail.com");
 	 ac.setAccountno(25000f);
 	 System.out.println(ac.getBalance());
 	 System.out.println(ac.getEmail());
 	 System.out.println(ac.getAccountno());
 	 
 	}
+}
