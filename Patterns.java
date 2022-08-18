@@ -1,3 +1,5 @@
+//  This program display the pattern like right angle triangle with a number witten by Rutvi Miskin. 
+
 import java.util.Scanner;
 public class Patterns
 {
